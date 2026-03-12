@@ -61,7 +61,7 @@ Includes:
 
 ## 🖥 Dashboard Preview
 
-![Netflix Dashboard](Netflix Dashboard.png)
+![Netflix Dashboard](Screenshot 2026-03-12 235058.png)
 
 ---
 
